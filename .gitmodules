@@ -1,0 +1,3 @@
+[submodule "AI_app/ImageCaptioning.pytorch"]
+	path = AI_app/ImageCaptioning.pytorch
+	url = git@github.com:deep-learning-with-pytorch/ImageCaptioning.pytorch.git

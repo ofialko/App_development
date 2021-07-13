@@ -1,0 +1,9 @@
+setuptools 
+wheel
+six
+numpy
+flask
+torch
+torchvision
+h5py --no-binary=h5py
+
